@@ -1,6 +1,4 @@
-Hi! 👋 I'm Bianca, and I love rock climbing.
-
-Like many climbers, I'm always wondering: **what actually helps someone climb harder?** Finger strength? Pull-ups? Years of experience? Training frequency? 
+Hi! 👋 I'm Bianca, and I love rock climbing. Like many climbers, I also wonder **what makes climbers freakishly good.** 
 
 In this project, I analyze a public survey of climbers to identify which physical characteristics, training habits, and climbing backgrounds are most strongly associated with climbing performance.
 
