@@ -9,7 +9,7 @@ print(df.loc["Sex", "Height (cm)"])
 df.loc
 
 # Practice with dataframes
-'''df2 = pd.DataFrame( 
+df2 = pd.DataFrame( 
     {
         "age": np.random.randint(40, size=10),
         "wingspan": np.random.randint(20, size=10),
@@ -35,4 +35,4 @@ for i in vgrades:
     print(f"index: {i}")
     vgrades[i-1] = vgrades[i-1]*3
 
-print(f"list after: {vgrades}")'''
+print(f"list after: {vgrades}")
